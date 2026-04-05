@@ -304,7 +304,7 @@ This project is licensed under the [GNU General Public License v3.0](LICENSE).
 
 ---
 
-## Star History
+[## Star History
 
 <a href="https://www.star-history.com/?repos=SodiumSulfate%2FLLMChat&type=date&legend=top-left">
  <picture>
@@ -312,7 +312,7 @@ This project is licensed under the [GNU General Public License v3.0](LICENSE).
    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=SodiumSulfate/LLMChat&type=date&legend=top-left" />
    <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=SodiumSulfate/LLMChat&type=date&legend=top-left" />
  </picture>
-</a>
+</a>](https://www.star-history.com/?repos=SodiumSulfate%2FLLMChat&type=date&legend=bottom-right)
 
 ---
 
