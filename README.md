@@ -2,6 +2,16 @@
 
 # LLMChat
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SodiumSulfate/LLMChat/main/docs/head.png" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SodiumSulfate/LLMChat/main/docs/head.png" />
+  <img width="50%" src="https://raw.githubusercontent.com/SodiumSulfate/LLMChat/main/docs/head.png" alt="LLMChat Banner" />
+</picture>
+
+<p align="center">
+  <span style="font-size: 0.75em; color: #888;">图片由 Gemini Nano Banana 2 生成</span>
+</p>
+
 **一个强大的 Minecraft 服务器 AI 聊天插件**
 
 让玩家在游戏中与各种大语言模型 (LLM) 进行对话
