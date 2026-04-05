@@ -295,12 +295,12 @@ This project is licensed under the [GNU General Public License v3.0](LICENSE).
 
 ## Star History
 
-<a href="https://star-history.com/#SodiumSulfate/LLMChat&Date">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=SodiumSulfate/LLMChat&type=Date&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=SodiumSulfate/LLMChat&type=Date" />
-    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=SodiumSulfate/LLMChat&type=Date" />
-  </picture>
+<a href="https://www.star-history.com/?repos=SodiumSulfate%2FLLMChat&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=SodiumSulfate/LLMChat&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=SodiumSulfate/LLMChat&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=SodiumSulfate/LLMChat&type=date&legend=top-left" />
+ </picture>
 </a>
 
 ---
