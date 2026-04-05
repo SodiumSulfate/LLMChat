@@ -55,7 +55,7 @@ LLMChat 是一个为 Minecraft 服务器设计的 AI 聊天插件，支持多种
 1. 从 [Releases](https://github.com/SodiumSulfate/LLMChat/releases) 页面下载最新的 `LLMChat-x.x.jar`
 2. 将 jar 文件放入服务器的 `plugins` 目录
 3. 启动服务器，插件会自动生成配置文件
-4. 编辑 `plugins/LLMChat/config.yml` 配置你的 API
+4. 编辑 `plugins/LLMChat-Sodium_Sulfate/config.yml` 配置你的 API
 5. 使用 `/llmchat reload` 重载配置（控制台）
 
 > [!WARNING]
@@ -215,7 +215,7 @@ LLMChat is an AI chat plugin designed for Minecraft servers, supporting multiple
 1. Download the latest `LLMChat-x.x.jar` from [Releases](https://github.com/SodiumSulfate/LLMChat/releases)
 2. Place the jar file in your server's `plugins` directory
 3. Start the server, the plugin will generate configuration files
-4. Edit `plugins/LLMChat/config.yml` to configure your APIs
+4. Edit `plugins/LLMChat-Sodium_Sulfate/config.yml` to configure your APIs
 5. Use `/llmchat reload` to reload configuration (console only)
 
 > [!WARNING]
