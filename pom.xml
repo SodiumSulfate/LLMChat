@@ -8,7 +8,7 @@
 
     <groupId>com.sodium.llmchat</groupId>
     <artifactId>LLMChat</artifactId>
-    <version>1.1</version>
+    <version>1.2</version>
 
     <properties>
         <maven.compiler.source>21</maven.compiler.source>
